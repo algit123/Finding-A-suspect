@@ -1,6 +1,7 @@
 # Finding the suspect
 
-### Note: For ful details on this project, including code and outputs, please consult the Colab Notebook available in the current repository
+#### Note:  For full details on this project, including code and outputs, please consult the Colab Notebook available in the current repository
+
 ## Project background and rationale
 
 <a href="https://en.wikipedia.org/wiki/Facial_composite">Facial composites</a> are widely used in forensics to generate the images of suspects. Because victims or witnesses usually aren't good at drawing, computer-aided generation is applied to reconstruct the face of the attacker(s). One of the most commonly used techniques is Evolutionary Systems that compose the final face from many predefined parts.
